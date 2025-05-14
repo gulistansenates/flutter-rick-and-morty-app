@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:rick_and_morty/views/widgets/appbar_widget.dart';
-import 'package:rickandmorty/views/widgets/character_card_listview.dart';
+import 'package:rick_and_morty_app/views/widgets/appbar_widget.dart';
+import 'package:rick_and_morty_app/views/widgets/character_card_list_view.dart';
 
 import 'characters_view_model.dart';
 
@@ -16,12 +16,12 @@ class _CharactersViewState extends State<CharactersView> {
   @override
   void initState() {
     super.initState();
-    context.read<CharactersViewmodel>().getCharacters();
+    context.read<CharactersViewModel>().getCharacters();
   }
 
   @override
   Widget build(BuildContext context) {
-    final viewModel = context.watch<CharactersViewmodel>();
+    final viewModel = context.watch<CharactersViewModel>();
     return Scaffold(
       appBar: const AppBarWidget(title: 'Rick and Morty'),
       body: Center(
