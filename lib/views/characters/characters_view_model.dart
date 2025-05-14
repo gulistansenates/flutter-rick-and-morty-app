@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rickandmorty/app/locator.dart';
-import 'package:rick_and_morty/models/characters_model.dart';
+import 'package:rick_and_morty_app/app/locator.dart';
+import 'package:rick_and_morty_app/models/characters_model.dart';
 import 'package:rickandmorty/services/api_service.dart';
 
 enum CharacterType { all, alive, dead, unknown }
