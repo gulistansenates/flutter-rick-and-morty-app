@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:rick_and_morty_app/models/characters_model.dart';
-import 'package:rick_and_morty_app/views/screens/character%20profile/character_profile_view_model.dart';
+import 'package:rick_and_morty_app/views/screens/character profile/character_profile_view_model.dart';
 import 'package:rick_and_morty_app/views/widgets/appbar_widget.dart';
 import 'package:rick_and_morty_app/views/widgets/decorated_container.dart';
 import 'package:rick_and_morty_app/views/widgets/episodes_list_view.dart';
