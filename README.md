@@ -22,18 +22,24 @@ A Flutter application that displays characters, episodes, locations, and more fr
   
 ## 🖼️ Screenshots
 
-<div align="center">
-  <img src="assets/images/screenshot1.png" width="200" />
-  <img src="assets/images/screenshot2.png" width="200" />
-  <img src="assets/images/screenshot3.png" width="200" />
-</div>
+![Karakterler](assets/images/sct1.png)
+![Favorilerim](assets/images/sc2.png)
+![Konumlar](assets/images/sc3.png)
+![Bölümler](assets/images/sc4.png)
+![Bölümler](assets/images/sc5.png)
+![Karakter Rick](assets/images/sc6.png)
+![Karakter Adjudicator](assets/images/sc7.png)
+![Filtreleme](assets/images/sc8.png)
+![Dark Theme Karakterler](assets/images/sc9.png)
+![Dark Theme Karakter Beth](assets/images/sc10.png)
+
 ## 🚀 Getting Started
 
 #### Clone the repository
 
 ```markdown
 git clone https://github.com/gulistansenates/flutter-rick-and-morty-app.git
-cd flutter_rickandmorty
+cd rick_and_morty_app
 ```
 #### Install dependencies
 
