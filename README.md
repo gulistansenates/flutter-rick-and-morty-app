@@ -21,16 +21,16 @@ A Flutter application that displays characters, episodes, locations, and more fr
 - **[SharedPreferences](https://pub.dev/packages/shared_preferences)** – Local Storage
   
 ## 🖼️ Screenshots
-![Karakterler](assets/images/sct1.png)
-![Favorilerim](assets/images/sc2.png)
-![Konumlar](assets/images/sc3.png)
-![Bölümler](assets/images/sc4.png)
-![Bölümler](assets/images/sc5.png)
-![Karakter Rick](assets/images/sc6.png)
-![Karakter Adjudicator](assets/images/sc7.png)
-![Filtreleme](assets/images/sc8.png)
-![Dark Theme Karakterler](assets/images/sc9.png)
-![Dark Theme Karakter Beth](assets/images/sc10.png)
+![Karakterler](assets/screenshots/sc1.png)
+![Favorilerim](assets/screenshots/sc2.png)
+![Konumlar](assets/screenshots/sc3.png)
+![Bölümler](assets/screenshots/sc4.png)
+![Bölümler](assets/screenshots/sc5.png)
+![Karakter Rick](assets/screenshots/sc6.png)
+![Karakter Adjudicator](assets/screenshots/sc7.png)
+![Filtreleme](assets/screenshots/sc8.png)
+![Dark Theme Karakterler](assets/screenshots/sc9.png)
+![Dark Theme Karakter Beth](assets/screenshots/sc10.png)
 
 ## 🚀 Getting Started
 
