@@ -21,7 +21,6 @@ A Flutter application that displays characters, episodes, locations, and more fr
 - **[SharedPreferences](https://pub.dev/packages/shared_preferences)** – Local Storage
   
 ## 🖼️ Screenshots
-
 ![Karakterler](assets/images/sct1.png)
 ![Favorilerim](assets/images/sc2.png)
 ![Konumlar](assets/images/sc3.png)
