@@ -1,16 +1,50 @@
-# rick_and_morty_app
+# Rick and Morty Flutter App
 
-A new Flutter project.
+A Flutter application that displays characters, episodes, locations, and more from the Rick and Morty universe using the [Rick and Morty API](https://rickandmortyapi.com/).
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- View all characters, locations, and episodes
+- Load characters of a specific episode
+- Load residents of a location
+- Infinite scroll for episode list
+- Light/Dark theme toggle
+- Clean MVVM architecture with Provider
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **[Flutter](https://flutter.dev/)** – UI Toolkit
+- **[Provider](https://pub.dev/packages/provider)** – State Management
+- **[Dio](https://pub.dev/packages/dio)** – Networking
+- **[GoRouter](https://pub.dev/packages/go_router)** – Navigation
+- **[GetIt](https://pub.dev/packages/get_it)** – Dependency Injection
+- **[SharedPreferences](https://pub.dev/packages/shared_preferences)** – Local Storage
+  
+## 🖼️ Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="assets/images/screenshot1.png" width="200" />
+  <img src="assets/images/screenshot2.png" width="200" />
+  <img src="assets/images/screenshot3.png" width="200" />
+</div>
+## 🚀 Getting Started
+
+#### Clone the repository
+
+```markdown
+git clone https://github.com/gulistansenates/flutter-rick-and-morty-app.git
+cd flutter_rickandmorty
+```
+#### Install dependencies
+
+```markdown
+flutter pub get
+```
+#### Run the app 
+
+```markdown
+flutter run
+```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
