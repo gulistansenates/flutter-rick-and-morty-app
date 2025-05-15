@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
+import 'character_card_view.dart';
 import 'package:rick_and_morty_app/app/locator.dart';
 import 'package:rick_and_morty_app/models/characters_model.dart';
 import 'package:rick_and_morty_app/services/preferences_service.dart';
-
-import 'character_card_view.dart';
 
 class CharacterCardListView extends StatefulWidget {
   final List<CharacterModel> characters;

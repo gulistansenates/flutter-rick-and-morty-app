@@ -40,7 +40,7 @@ class AppRoutes {
   AppRoutes._();
 
   static const String characters = '/';
-  static const String favorites = '/favourites';
+  static const String favorites = '/favorites';
   static const String locations = '/locations';
   static const String sections = '/sections';
   static const String settings = '/settings';

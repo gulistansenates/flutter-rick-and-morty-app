@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:rickandmorty/app/locator.dart';
-import 'package:rickandmorty/models/episode_model.dart';
-import 'package:rickandmorty/services/api_service.dart';
+import 'package:rick_and_morty_app/app/locator.dart';
+import 'package:rick_and_morty_app/models/episode_model.dart';
+import 'package:rick_and_morty_app/services/api_service.dart';
 
-class CharacterProfileViewmodel extends ChangeNotifier {
+class CharacterProfileViewModel extends ChangeNotifier {
   final _apiService = locator<ApiService>();
 
   List<EpisodeModel> _episodes = [];
