@@ -1,4 +1,4 @@
-# Rick and Morty Flutter App
+# 🎬 Rick and Morty App
 
 A Flutter application that displays characters, episodes, locations, and more from the Rick and Morty universe using the [Rick and Morty API](https://rickandmortyapi.com/).
 
