@@ -41,6 +41,8 @@ A Flutter application that displays characters, episodes, locations, and more fr
 
 ```markdown
 git clone https://github.com/gulistansenates/flutter-rick-and-morty-app.git
+```
+```markdown
 cd rick_and_morty_app
 ```
 #### Install dependencies
